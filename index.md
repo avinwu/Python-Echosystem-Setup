@@ -7,6 +7,15 @@ We will outline the steps to install and setup below components part of Echosyst
 - [JupyterHub](https://github.com/avinwu/test/edit/master/jupyterhub_setup.md)
 - [JupyterLab](https://github.com/avinwu/test/edit/master/jupyterlab_setup.md)
 
+### Anaconda on Windows
+
+### Anaconda on Linux
+
+### JupyterHub
+
+### JupyterLab
+
+
 You can use the [editor on GitHub](https://github.com/avinwu/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
