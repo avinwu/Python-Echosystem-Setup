@@ -2,11 +2,10 @@
 
 We will outline the steps to install and setup below components part of Echosystem.
 
-Item 1 (https://github.com/avinwu/test/edit/master/index.md)
-Item 2 (https://github.com/avinwu/test/edit/master/index.md)
-Item 3 (https://github.com/avinwu/test/edit/master/index.md)
-Item 4 (https://github.com/avinwu/test/edit/master/index.md)
-Item 5 (https://github.com/avinwu/test/edit/master/index.md)
+- [Item 1] (https://github.com/avinwu/test/edit/master/index.md)
+- [Item 2] (https://github.com/avinwu/test/edit/master/index.md)
+- [Item 3] (https://github.com/avinwu/test/edit/master/index.md)
+
 
 You can use the [editor on GitHub](https://github.com/avinwu/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
