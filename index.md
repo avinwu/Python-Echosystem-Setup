@@ -2,7 +2,7 @@
 
 We will outline the steps to install and setup below components part of Echosystem.
 
-- [Anaconda on Windows](https://github.com/avinwu/test/edit/master/anaconda_installation_windows)
+- [Anaconda on Windows](https://github.com/avinwu/test/edit/master/anaconda_installation_windows.html)
 - [Anaconda on Linux](https://github.com/avinwu/test/edit/master/anaconda_installation_linux.md)
 - [JupyterHub](https://github.com/avinwu/test/edit/master/jupyterhub_setup.md)
 - [JupyterLab](https://github.com/avinwu/test/edit/master/jupyterlab_setup.md)
