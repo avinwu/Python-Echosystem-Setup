@@ -12,13 +12,11 @@ We will outline the steps to install and setup below components part of Echosyst
 
 ### Anaconda on Linux
 - Download the latest version of Python distribution installer from [anaconda](https://www.anaconda.com/distribution/)
-
   ![Image of anaconda](https://github.com/avinwu/Python-Echosystem-Setup/blob/master/images/anaconda.png)
   
   Note - 
   
 - Login to Linux session and copy the anaconda installer file (Anaconda3-2018.12-Linux-x86_64.sh) to desired location
-
   ![Image of linux_session](https://github.com/avinwu/Python-Echosystem-Setup/blob/master/images/linux_session.png)
   
   Note - The installer file is copied from Local C drive to WSL home directory /home/pabhijit
