@@ -20,7 +20,7 @@ We will outline the steps to install and setup below components part of Echosyst
   ![Image of linux_session](https://github.com/avinwu/Python-Echosystem-Setup/blob/master/images/linux_session.png)
   Note - The installer file is copied from Local C drive to WSL home directory /home/pabhijit
   
-  
+- 
   
 ### JupyterHub
 
