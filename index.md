@@ -12,7 +12,7 @@ We will outline the steps to install and setup below components part of Echosyst
 
 ### Anaconda on Linux
 - Download the latest version of Python distribution installer from [anaconda](https://www.anaconda.com/distribution/)
-  ![Image of anaconda](https://github.com/avinwu/Python-Echosystem-Setup/blob/master/images/anaconda.png)
+  ![Image of anaconda](https://github.com/avinwu/Python-Echosystem-Setup/blob/master/images/anaconda_linux.png)
   
   Note - 
   
